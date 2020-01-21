@@ -1,0 +1,27 @@
+html {
+  font-family: 'Nunito', sans-serif;
+}
+h2 {
+  font-family: 'PT Serif', serif;  
+}
+
+.home-row {
+  display: flex;
+
+}
+
+.home-left, .home-right {
+  flex: 1 1 46%;
+}
+@media screen and (max-width: 800px) {
+  .home-row {
+    flex-flow: row wrap;
+  }
+  .home-left, .home-right {
+    flex: 100%;
+  }
+}
+
+.home-right {
+  padding: 4rem;
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+  {%- include header.html -%}
+
+  <main class="page-content" aria-label="Content">
+    <div class="home-row">
+      {%- if page.title -%}
+        <h1 class="page-heading">{{ page.title }}</h1>
+      {%- endif -%}
+      <div class="home-left">
+        <img src="/assets/images/book-cover.jpg" alt="Book cover of Tales of the Holy Mysticat" />
+      </div>
+      <div class="home-right">
+        <h2>Lorem ipsum dolor sit amet sed ut perspicatus. Lorem ipsum dolor sit amet sed ut perspicatus. Lorem ipsum dolor sit amet sed ut perspicatus.</h2>
+      </div>
+      </div>
+    </main>
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
