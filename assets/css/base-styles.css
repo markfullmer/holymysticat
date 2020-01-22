@@ -1,19 +1,47 @@
-html {
-  font-family: 'Nunito', sans-serif;
-}
-h2 {
-  font-family: 'PT Serif', serif;  
+.site-header {
+  border-top: 5px solid#551033;
 }
 
+body {
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+}
+
+.wrapper {
+  max-width: -webkit-calc(1200px - (30px * 2));
+  max-width: calc(1200px - (30px * 2));
+}
+
+.centered {
+  text-align: center;
+}
+
+a,
+a:link,
+a:hover,
+a:visited,
+.site-nav .page-link {
+  color: #551033;
+}
+a.page-link,
+.page-link,
+.site-title,
+:link.site-title {
+  text-decoration: none;
+}
+a,
+a:hover {
+  text-decoration: underline;
+}
+
+/* Homepage positioning */
 .home-row {
   display: flex;
-
 }
-
 .home-left, .home-right {
   flex: 1 1 46%;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
   .home-row {
     flex-flow: row wrap;
   }
@@ -22,6 +50,33 @@ h2 {
   }
 }
 
+/* Homepage text */
 .home-right {
   padding: 4rem;
+}
+.callout {
+  font-size: 2rem;
+  font-family: 'Libre Baskerville', serif;
+  color: #551033;
+  padding-bottom: 4rem;
+}
+.shout-out {
+  padding-bottom: 2rem;
+}
+.quote {
+  font-family: 'Libre Baskerville', serif;
+  color: #862A51;
+  font-style: italic;
+  font-size:1.5rem;
+}
+.attribution {
+  font-size: 1.3rem;
+  text-align: right;
+  color: #551033;
+  padding-right: 1rem;
+}
+
+/* General pages */
+.author-headshot {
+  float: right;
 }
