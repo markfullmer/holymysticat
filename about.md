@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-<div class="author-headshot"><img class="author-headshot" alt="Headshot of the author" src="/assets/images/headshot-placeholder-woman.png" /></div>
+<div class="author-headshot"><img class="author-headshot" alt="Headshot of the author" src="{{ "/assets/images/headshot-placeholder-woman.png" | relative_url }} /></div>
 <strong>Rachel Adler</strong> dolor sit amet, te qui quodsi omnium, eam ut harum philosophia, adhuc volumus qualisque mea at. Eam no viris quidam accusata, qui ut dicant meliore alienum. Putant dictas signiferumque ne pri, est ex adhuc voluptua facilisi, vim graeci eruditi appetere at. Unum sale eleifend id cum, eum dolore appareat maiestatis ex, usu graeco luptatum argumentum ea. Dicant virtute accusam eum ex. No graeci inermis accommodare vel.
 
 Maiorum deleniti eum id. Id sonet adipiscing vis. Modo affert everti mea ut. Epicurei philosophia nam no, quo te maiorum pertinacia deterruisset, ei sed duis commune. Et animal debitis est, dico summo tation est in, accusata suscipiantur an ius.
