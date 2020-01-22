@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Nunito', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .wrapper {
@@ -55,7 +55,7 @@ a:hover {
   padding: 4rem;
 }
 .callout {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-family: 'Libre Baskerville', serif;
   color: #551033;
   padding-bottom: 4rem;
@@ -67,10 +67,10 @@ a:hover {
   font-family: 'Libre Baskerville', serif;
   color: #862A51;
   font-style: italic;
-  font-size:1.5rem;
+  font-size:1.3rem;
 }
 .attribution {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   text-align: right;
   color: #551033;
   padding-right: 1rem;
