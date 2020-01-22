@@ -2,8 +2,8 @@ title: Tales of the Holy Mysticat
 email: publisher@banotpress.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tales of the Holy Mysticat is a book
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://markfullmer.github.io/holymysticat" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/holymysticat" # the subpath of your site, e.g. /blog
+url: "https://markfullmer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  markfullmer
 
 # Build settings
