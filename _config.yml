@@ -1,7 +1,7 @@
 title: Tales of the Holy Mysticat
 email: publisher@banotpress.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tales of the Holy Mysticat is a book
+  Jewish Wisdom Stories by a Feline Mystic, as collected by Rachel Adler, published by Banot Press.
 baseurl: "/holymysticat" # the subpath of your site, e.g. /blog
 url: "https://markfullmer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  markfullmer
