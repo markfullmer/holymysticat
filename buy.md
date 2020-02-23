@@ -5,12 +5,10 @@ permalink: /buy/
 order: 3
 ---
 
-<h2>Coming September 2020</h2>
+<h2>Available September 29, 2020</h2>
 
-Available for pre-order from Amazon and Barnes & Noble
-
-ISBN xxx-x-xxxxxxx-x-x
+ISBN 978-0-9763050-1-9
 
 Published by <a href="http://banotpress.com">Banot Press</a>
 
-Print $XX.95 / E-book $X.99
+Print $15.95

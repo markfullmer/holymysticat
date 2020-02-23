@@ -1,39 +1,60 @@
 .site-header {
   border-top: 5px solid #30477e;
 }
-
-body {
-  font-family: 'Nunito', sans-serif;
-  font-size: 16px;
+.site-title, .site-footer {
+  font-family: 'Kurale', serif;
+  color: #fff;
 }
-p.big {
-  font-size: 18px;
+.site-footer {
+  font-size:1.2rem;
 }
-
-.wrapper {
-  max-width: -webkit-calc(1200px - (30px * 2));
-  max-width: calc(1200px - (30px * 2));
-}
-
-.centered {
-  text-align: center;
-}
-
-a,
-a:link,
-a:hover,
-a:visited,
-.site-nav .page-link {
-  color: #30477e;
+a.page-link,
+.page-link,
+.site-title,
+:link.site-title,
+.site-footer a,
+.site-footer a:visited,
+.site-footer a:link,
+.site-footer a:hover {
+  color: #fff;
 }
 a.page-link,
 .page-link,
 .site-title,
 :link.site-title {
   text-decoration: none;
+  color: #fff;
 }
-a,
-a:hover {
+
+body {
+  font-family: 'Nunito', sans-serif;
+  font-size: 16px;
+  background-color: #7c8bb2;
+  color: #fff;
+}
+
+.wrapper {
+  max-width: -webkit-calc(1200px - (30px * 2));
+  max-width: calc(1200px - (30px * 2));
+  padding: 2rem;
+}
+
+.page-content .wrapper {
+  background: #fff;
+  color: #30477e;
+}
+.centered {
+  text-align: center;
+}
+
+body a,
+body a:link,
+body a:hover,
+body a:visited {
+  color: #30477e;
+}
+body a,
+body a:hover {
   text-decoration: underline;
 }
 
@@ -54,10 +75,8 @@ a:hover {
 }
 .callout {
   font-weight: 600;
-  font-size: 1.3rem;
   font-family: 'Kurale', serif;
   color: #30477e;
-  padding-bottom: 4rem;
 }
 .shout-out {
   padding-bottom: 2rem;
