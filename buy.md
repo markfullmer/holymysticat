@@ -5,7 +5,7 @@ permalink: /buy/
 order: 3
 ---
 
-<h2>Available September 29, 2020</h2>
+<h2>Available October 6, 2020</h2>
 
 <a href="https://www.amazon.com/Tales-Holy-Mysticat-Jewish-Stories/dp/0976305011/ref=sr_1_1?keywords=mysticat&qid=1582851080&s=books&sr=1-1">Available for pre-order from Amazon</a>
 
