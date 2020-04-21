@@ -71,7 +71,7 @@ body a:hover {
 
 /* Homepage text */
 .home-right {
-  padding: 4rem;
+  padding: 0 4rem 4rem 4rem;
 }
 .callout {
   font-weight: 600;
@@ -130,6 +130,6 @@ body a:hover {
     font-size: 1rem;
   }
   .home-right {
-    padding: 3rem;
+    padding: 0 3rem 3rem 3rem;
   }
 }
