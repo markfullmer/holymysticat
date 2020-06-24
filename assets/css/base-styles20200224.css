@@ -133,3 +133,81 @@ body a:hover {
     padding: 0 3rem 3rem 3rem;
   }
 }
+blockquote {
+  font-style: normal;
+}
+
+/* Navigation */
+nav#dropdown {
+  text-align: center;
+  padding: 0px;
+  margin: auto;
+  background: #fff;
+  line-height: 34px;
+}
+nav#dropdown a {
+  text-decoration: none;
+}
+
+nav#dropdown ul {
+  color: #000;
+  background: #fff;
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+nav#dropdown li {
+  color: #000;
+  background: #fff;
+  display: block;
+  float: left;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  position: relative;
+  text-decoration: none;
+  transition-duration: 0.5s;
+}
+  
+nav#dropdown li a {
+  color: #000;
+}
+
+nav#dropdown li:hover,
+nav#dropdown li:focus-within {
+    background:rgb(245, 194, 215);
+    cursor: pointer;
+}
+
+nav#dropdown li:focus-within a {
+  outline: none;
+}
+
+nav#dropdown ul li ul {
+  background: #fff;
+  visibility: hidden;
+  opacity: 0;
+  min-width: 5rem;
+  position: absolute;
+  transition: all 0.5s ease;
+  left: 0;
+  display: none;
+}
+
+nav#dropdown ul li:hover > ul,
+nav#dropdown ul li:focus-within > ul,
+nav#dropdown ul li ul:hover,
+nav#dropdown ul li ul:focus {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+}
+
+nav#dropdown ul li ul li {
+  clear: both;
+  width: 100%;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
