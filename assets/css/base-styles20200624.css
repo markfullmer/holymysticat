@@ -99,6 +99,9 @@ body a:hover {
   float: right;
   padding-left: 10px;
 }
+.embed {
+  width: 560px;
+}
 @media screen and (max-width: 900px) {
   .home-row {
     flex-flow: row wrap;
