@@ -150,6 +150,7 @@ nav#dropdown {
 }
 nav#dropdown a {
   text-decoration: none;
+  display: block;
 }
 
 nav#dropdown ul {
@@ -174,6 +175,7 @@ nav#dropdown li {
   
 nav#dropdown li a {
   color: #000;
+  display: block;
 }
 
 nav#dropdown li:hover,
@@ -208,9 +210,12 @@ nav#dropdown ul li ul:focus {
 
 nav#dropdown ul li ul li {
   clear: both;
-  width: 100%;
+  width: 150%;
   border-left: 1px solid black;
   border-right: 1px solid black;
   border-bottom: 1px solid black;
 }
 
+a[href="#"] {
+  cursor: default;
+}
