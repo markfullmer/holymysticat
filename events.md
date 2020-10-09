@@ -11,7 +11,7 @@ order: 2
   <li>Thursday, Oct 14 at 10 am PT. B'Yachad Together at American Jewish University, West Los Angeles. <a href="https://www.aju.edu/byachad-together/events/On-Feminism-Felines-and-Faith-A-Conversation-with-Rachel-Adler">https://www.aju.edu/byachad-together/events/On-Feminism-Felines-and-Faith-A-Conversation-with-Rachel-Adler</a></li>
   <li>Thursday, Oct 14 at 3 pm PT. Congregation B'nai Emet, Simi Valley CA. <a href="https://www.cbesimi.org">https://www.cbesimi.org/</a></li>
   <li>Wednesday, Oct 15 at 1:30-2:00 p.m. ET  [10:30-11 am PT]. Radio interview "Conversations LIVE". WPVQ-FM, WYAD-FM & <a href="https://blogtalkradio.com">BlogTalkRadio.com</a></li>
-  <li>Thursday, Oct 22 at 7:30 ET. Temple Beth Tikvah, Atlanta GA. <a href="https://www.bethtikvah.com/">https://www.bethtikvah.com/</a></li>
+  <li>Thursday, Oct 22 at 7:30 ET. Temple Beth Tikvah, Atlanta GA. <a href="https://www.bethtikvah.com/event/tales-of-the-holy-mysticat-with-rachel-adler.html">https://www.bethtikvah.com/event/tales-of-the-holy-mysticat-with-rachel-adler.html</a></li>
   <li>Monday, Oct 26 at 11 am - noon PT. Radio interview by Patricia Raskin. "Positive Living" on VoiceAmerica. <a href="https://www.voiceamerica.com/">https://www.voiceamerica.com/</a></li>
 </ul>
 
@@ -19,7 +19,7 @@ order: 2
 <ul class="calendar">
   <li>Tuesday, Nov 3. Election Day. Don't forget to vote!</li>
   <li>Thursday, Nov 12 at 8 pm ET. Jewish Theological Seminary, New York, NY.
-<a href="http://www.jtsa.edu/public-lectures-and-events">http://www.jtsa.edu/public-lectures-and-events</a></li>
+<a href="http://www.jtsa.edu/tales-of-the-holy-mysticat">http://www.jtsa.edu/tales-of-the-holy-mysticat</a></li>
   <li>Sunday, Nov 15 at 1 pm PT. Congregation Ner Tamid of South Bay, Palos Verdes CA. <a href="https://www.nertamid.com/">https://www.nertamid.com/</a></li>
   <li>Wednesday, Nov 18 at 7 pm ET. Diane Markowicz Memorial Lecture on Gender and Human Rights at Hadassah-Brandeis Institute at Brandeis University, Waltham MA</li>
   <li>Sunday, Nov 22 at noon ET. Sisterhood brunch at Temple Beth El, Somerset NJ. <a href="http://templebethelsomerset.org/">http://templebethelsomerset.org</a></li>
