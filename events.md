@@ -5,6 +5,22 @@ permalink: /events/
 order: 2
 ---
 
+<h3>February 2021</h3>
+<ul class="calendar">
+<li><strong>Sunday, Feb 7 - 10:45 CT</strong>. Temple Sholom, Chicago IL. <a href="https://www.sholomchicago.org/event/guest-scholar-tales-of-the-holy-mysticat-with-rabbi-rachel-adler.html">https://www.sholomchicago.org/event/guest-scholar-tales-of-the-holy-mysticat-with-rabbi-rachel-adler.html</a></li>
+</ul>
+
+
+<h3>January 2021</h3>
+<ul class="calendar">
+<li><strong>Sunday, Jan 10 - 7 pm ET</strong>. B'nai Israel of Southbury, CT. <a href="https://bnaiisraelsouthbury.org/calendar">https://bnaiisraelsouthbury.org/calendar</a></li>
+<li><strong>Sunday Jan 24 - 2 pm ET</strong>. Beth Israel, the Jewish Congregation of Sun City Center, FL.</li>
+<li><strong>Wednesday, Jan 27 - 7:30 pm EST</strong>. Oheb Shalom, South Orange NJ. <a href="https://www.ohebshalom.org/">https://www.ohebshalom.org/</a></li>
+</ul>
+<br />
+<hr>
+<br />
+
 <h3>October 2020</h3>
 <ul class="calendar">
   <li>Thursday, Oct 8 at 7 pm PT. Book launch at Beth Chayim Chadashim, Los Angeles, CA. <a href="https://bcc-la.org/">https://bcc-la.org/</a></li>
