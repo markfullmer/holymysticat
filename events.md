@@ -21,7 +21,7 @@ order: 2
   <li>Thursday, Nov 12 at 8 pm ET. Jewish Theological Seminary, New York, NY.
 <a href="http://www.jtsa.edu/tales-of-the-holy-mysticat">http://www.jtsa.edu/tales-of-the-holy-mysticat</a></li>
   <li>Sunday, Nov 15 at 1 pm PT. Congregation Ner Tamid of South Bay, Palos Verdes CA. <a href="https://www.nertamid.com/">https://www.nertamid.com/</a></li>
-  <li>Wednesday, Nov 18 at 7 pm ET. Diane Markowicz Memorial Lecture on Gender and Human Rights at Hadassah-Brandeis Institute at Brandeis University, Waltham MA</li>
+  <li>Wednesday, Nov 18 at 7 pm ET. Diane Markowicz Memorial Lecture on Gender and Human Rights at Hadassah-Brandeis Institute at Brandeis University, Waltham MA. <a href="https://www.brandeis.edu/hbi/events/index.html">https://www.brandeis.edu/hbi/events/index.html</a></li>
   <li>Sunday, Nov 22 at noon ET. Sisterhood brunch at Temple Beth El, Somerset NJ. <a href="http://templebethelsomerset.org/">http://templebethelsomerset.org</a></li>
 </ul>
 
