@@ -6,7 +6,7 @@ order: 3
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=KTbT-5a5-RE" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KTbT-5a5-RE" allowfullscreen></iframe>
 </div>
 <strong>January 24, 2021:</strong> Rachel Adler's zoom presentation at Temple Beth Israel in Sun City FL where she discusses how she came to write <em>Tales of the Holy Mysticat: Jewish Wisdom Stories by a Feline Mystic.</eM>
 
